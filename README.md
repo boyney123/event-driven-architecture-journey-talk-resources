@@ -1,6 +1,6 @@
 # Navigating the journey of serverless event-driven architecture
 
-Please find below a list of resources that can help you dive deeper into event-driven architecture. These resources map to my talk about `Navigating the journey of serverless event-driven architecture`/
+Please find below a list of resources that can help you dive deeper into event-driven architecture. These resources map to my talk about `Navigating the journey of serverless event-driven architecture
 
 ## Initial Design
 
