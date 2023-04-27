@@ -1,5 +1,7 @@
 # Navigating the journey of serverless event-driven architecture
 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/3268013/234830948-fc02da47-1228-456d-9803-a8773c5e2f65.png">
+
 Building an event-driven architecture is a journey, these resources can help you understand and dive deeper into the three stages I have highlighted
 
 - [Initial Design](#initial-design)
@@ -9,7 +11,7 @@ Building an event-driven architecture is a journey, these resources can help you
 - [Operational and maintenance](#Operation-and-maintenance)
   - When you are in production and scaling your solution, what can help you remain decoupled and agile?
 
-<img width="1015" alt="image" src="https://user-images.githubusercontent.com/3268013/234830948-fc02da47-1228-456d-9803-a8773c5e2f65.png">
+
 
 Please find below a list of resources that can help you dive deeper into event-driven architecture. These resources map to my talk about `Navigating the journey of serverless event-driven architecture`, hope you enjoyed the talk.
 
