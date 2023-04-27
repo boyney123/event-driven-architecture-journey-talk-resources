@@ -63,4 +63,4 @@ When you start building and implementing EDA applications, you want to keep an e
 Reach out to me if you would like me to run this talk at your event.
 
 Thanks!
-![image](https://user-images.githubusercontent.com/3268013/234835966-d87e0119-703b-4f5c-84b2-e31dfdf6f4c8.png)
+
