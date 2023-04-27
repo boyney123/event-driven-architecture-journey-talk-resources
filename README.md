@@ -6,7 +6,7 @@ Building an event-driven architecture is a journey, these resources can help you
   - Where should you start when building EDA applications? Understanding behaviour of systems can help vs diving straight in
 - [Implementation](#Implementation)
   - When you start writing code, what should you be aware of? What can help?
-- [Operational and maintenance](#Operation and maintenance)
+- [Operational and maintenance](#Operation-and-maintenance)
   - When you are in production and scaling your solution, what can help you remain decoupled and agile?
 
 <img width="1015" alt="image" src="https://user-images.githubusercontent.com/3268013/234830948-fc02da47-1228-456d-9803-a8773c5e2f65.png">
