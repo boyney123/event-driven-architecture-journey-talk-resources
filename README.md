@@ -1,6 +1,6 @@
 # Navigating the journey of serverless event-driven architecture
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/3268013/234830948-fc02da47-1228-456d-9803-a8773c5e2f65.png">
+<img width="1024" alt="image" src="https://user-images.githubusercontent.com/3268013/234830948-fc02da47-1228-456d-9803-a8773c5e2f65.png">
 
 Building an event-driven architecture is a journey, these resources can help you understand and dive deeper into the three stages I have highlighted
 
