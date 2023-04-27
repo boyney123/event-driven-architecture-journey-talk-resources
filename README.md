@@ -2,7 +2,7 @@
 
 Building an event-driven architecture is a journey, these resources can help you understand and dive deeper into the three stages I have highlighted
 
-- Initial Design
+- [Initial Design](#initial-design)
   - Where should you start when building EDA applications? Understanding behaviour of systems can help vs diving straight in
 - Implementation
   - When you start writing code, what should you be aware of? What can help?
