@@ -2,7 +2,7 @@
 
 <img width="1024" alt="image" src="https://user-images.githubusercontent.com/3268013/234830948-fc02da47-1228-456d-9803-a8773c5e2f65.png">
 
-Building an event-driven architecture is a journey, these resources can help you understand and dive deeper into the three stages I have highlighted
+Building an event-driven architecture is a journey, these resources can help you understand and dive deeper into the three stages I have highlighted:
 
 - [Initial Design](#initial-design)
   - Where should you start when building EDA applications? Understanding behaviour of systems can help vs diving straight in
@@ -11,9 +11,7 @@ Building an event-driven architecture is a journey, these resources can help you
 - [Operational and maintenance](#Operation-and-maintenance)
   - When you are in production and scaling your solution, what can help you remain decoupled and agile?
 
-
-
-Please find below a list of resources that can help you dive deeper into event-driven architecture. These resources map to my talk about `Navigating the journey of serverless event-driven architecture`, hope you enjoyed the talk.
+Please find below a list of resources that can help you dive deeper into event-driven architecture. These resources map to my 2023 talk about `Navigating the journey of serverless event-driven architecture`.
 
 ## Initial Design
 
@@ -57,6 +55,8 @@ When you start building and implementing EDA applications, you want to keep an e
 
 ## Extras
 - [EDA Visuals](https://serverlessland.com/event-driven-architecture/visuals) - List of visuals I have created to explain event-driven architectures, many have extra resources for you to dive deep and learn in your own time.
+- [Enterprise integration patterns](https://www.enterpriseintegrationpatterns.com/) - Holy grail of information about integration patterns, totally worth checking out!
+- [Severless Land Patterns](https://serverlessland.com/patterns) - Want to get started with these integration patterns on AWS, we have over 500 patterns for you to dive in, learn and deploy.
 
 ---
 
