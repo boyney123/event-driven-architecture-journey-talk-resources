@@ -15,13 +15,15 @@ Please find below a list of resources that can help you dive deeper into event-d
 
 ## Initial Design
 
+To build a successful event-driven application, it is essential to understand the problem domain, identify key events, and agree on standards. Understanding the problem domain involves identifying key concepts, entities, and workflows. This understanding can help vs diving straight into implemention details.
+
 - [Understanding Event Storming](https://serverlessland.com/event-driven-architecture/visuals/event-storming) - Remember before you start building EDA applications, take time to understand the behaviour of your system, Event Storming can help you.
 - [Event first thinking](https://www.youtube.com/watch?v=GBzr48Mj2JU&t=126s) - In this talk I spoke about YOLO events, and problems if we dive into implementation first over design or thinking first. Here is a talk I done in 2022 that might be able to help you. We dive into YOLO events, event patterns and trade-offs to consider.
 - [EDA with Domain Driven Design](https://serverlessland.com/event-driven-architecture/visuals/eda-and-ddd) - It's important to have a shared understanding of your domain and domain driven design can help with this.
 
 ## Implementation
 
-EDA is a collection of patterns, these links will help you dive deeper.
+After gaining a clear understanding of the key events involved in your event-driven application, it is also crucial to familiarize yourself with messaging patterns and integration patterns. These patterns can provide valuable insights and solutions when dealing with specific implementation details or challenges that may arise during the development process.
 
 ### Messaging patterns
 
@@ -36,7 +38,7 @@ EDA is a collection of patterns, these links will help you dive deeper.
 
 ## Operation and maintenance
 
-When you start building and implementing EDA applications, you want to keep an eye on operation and maintenance things that can help you remain successful. 
+Scaling your event-driven application (EDA) in your organization can pose various challenges, such as discoverability issues, standardization problems, lack of documentation, and governance concerns. To ensure that your EDA operates efficiently at scale, it is crucial to keep track of these issues and implement appropriate solutions to address them.
 
 ### Standards
 
