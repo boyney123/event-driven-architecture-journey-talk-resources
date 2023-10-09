@@ -34,6 +34,7 @@ After gaining a clear understanding of the key events involved in your event-dri
 ### Integration patterns + consumer patterns
 - [Content enricher pattern](https://serverlessland.com/event-driven-architecture/visuals/content-enricher-pattern) - Do you need to enrich events before they reach downstream consumers? This allows you to keep producer contract simple and consumers still get what they need without putting back pressure onto the producer. 
 - [Claim check pattern](https://serverlessland.com/event-driven-architecture/visuals/claim-check-pattern) - Sometimes you may need to store first and then retrive data later, you can use this pattern to get around any payload limits you may have with your broker.
+  - Example of a [Serverless claim check pattern](https://www.boyney.io/blog/2022-11-01-eventbridge-claim-check)
 - [Messaging between bounded context](https://serverlessland.com/event-driven-architecture/visuals/messages-between-bounded-context) - When you consume events, how do you want to consume them? Conform, map or agree on a public language? Something to consider.
 
 ## Operation and maintenance
